@@ -58,7 +58,7 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 
 
-# **TASK-4**
+# **Final Task**
 
 Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 
